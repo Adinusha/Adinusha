@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Druică Denisa-Adina</h1>
 <h3 align="center">I am a Computer Science Student from Romania</h3>
 
-- 🔭 I’m currently working on [A photography site](https://timisphotos.vercel.app/)
+- 🔭 I’m currently working on [a photography site](https://tgsphotos.vercel.app/)
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
